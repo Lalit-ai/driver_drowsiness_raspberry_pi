@@ -12,7 +12,7 @@ Dlib’s facial landmark detector
 The pre-trained facial landmark detector inside the dlib library is used to estimate the location of 68 (x, y)-coordinates that map to facial structures on the face.
 The indexes of the 68 coordinates can be visualized on the image below:
 
-[!Facial Landmark 68 points](facial_landmarks_68markup-768x619.jpg)
+![Facial Landmark 68 pointsLeNet Architecture](facial_landmarks_68markup-768x619.jpg)
 
 Download Dlib Face shape predictor 68 landmarks .dat file
 Download From: https://github.com/AKSHAYUBHAT/TensorFace/blob/master/openface/models/dlib/shape_predictor_68_face_landmarks.dat
